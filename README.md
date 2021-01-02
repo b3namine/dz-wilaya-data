@@ -9,7 +9,7 @@ The Data is represented into two formats, JSON and SQL.
 
 ### Be Aware
 
-The Data goes to ***27 June 2019***, and it has never modified or updated since.
+The Data goes to ***27 June 2019***, and it has never being modified or updated since.
 
 ### Resources
 
@@ -75,4 +75,13 @@ This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you 
 
 ### Sql Data
 
-dazd
+> Tables Schemas
+
+* schema.sql: The Tables Schema for the Sql, MySql like databases.
+* schema.sql: The Tables Schema for the Sqlite databases.
+
+> The Data
+
+* data.sql: A Data migration file, for inserting all the Data after creating the tables, it is for Sql, MySql like databases.
+
+* data.sqlite: The Sqlite Database, therefore it is portable, just copy paste it, and use it.
