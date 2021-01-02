@@ -16,16 +16,16 @@ The Data goes to ***27 June 2019***, and it has never being modified or updated 
 The are the following recourse used to collect end combine the Data.
 
 * Official Goverment websites:
-  * http://www.interieur.gov.dz/index.php/fr/component/annuaire
-  * http://www.interieur.gov.dz/index.php/ar/component/annuaire
-  * https://www.algerietelecom.dz/fr/annuaire
-  * https://www.algerietelecom.dz/ar/annuaire
+  * <http://www.interieur.gov.dz/index.php/fr/component/annuaire>
+  * <http://www.interieur.gov.dz/index.php/ar/component/annuaire>
+  * <https://www.algerietelecom.dz/fr/annuaire>
+  * <https://www.algerietelecom.dz/ar/annuaire>
 
 * Non-official Goverment websites:
-  * https://abbassa.wordpress.com/wilayate/
-  * https://dza.postcodebase.com/region1-text
-  * http://www.algerie-poste.net/code-postal/
-  * https://fr.wikipedia.org/wiki/Liste_des_communes_d%27Alg%C3%A9rie
+  * <https://abbassa.wordpress.com/wilayate/>
+  * <https://dza.postcodebase.com/region1-text>
+  * <http://www.algerie-poste.net/code-postal/>
+  * <https://fr.wikipedia.org/wiki/Liste_des_communes_d%27Alg%C3%A9rie>
 
 ### Scraping code
 
