@@ -83,5 +83,4 @@ This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you 
 > The Data
 
 * data.sql: A Data migration file, for inserting all the Data after creating the tables, it is for Sql, MySql like databases.
-
 * data.sqlite: The Sqlite Database, therefore it is portable, just copy paste it, and use it.
