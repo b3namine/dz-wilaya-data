@@ -2,8 +2,8 @@
 
 ## Description
 
-DZ-Wilaya-Data, is a set of collected data, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this data set.  
-The data is represented into two formats, JSON and SQL.
+DZ-Wilaya-Data, is a set of collected Data, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this Data set.  
+The Data is represented into two formats, JSON and SQL.
 
 ## Notes
 
@@ -30,3 +30,49 @@ The are the following recourse used to collect end combine the Data.
 ### Scraping code
 
 This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you are looking for the Scraping code, please visit the [WilayaApi](https://github.com/HerharFares/WilayaApi) repository.
+
+## Explaing the Data
+
+### Json Data
+
+> Full Data Combined
+
+* Data.json: All the Data below was combined into one big file, that contains a join of all the Data, as it follows.
+
+```json
+    "31": {
+        "nameEn": "Oran",
+        "nameAr": "وهران",
+        "code": "31",
+        "commune": [
+            "3109",
+            .
+            .
+            .
+            "3114"
+        ],
+        "nameFr": "Oran",
+        "codeTel": "41",
+        "codePost": "31000"
+    }
+```
+
+> The Data Related To The States (Wilaya)
+
+* wilaya.json: The list of all the States (With all the Data, except Provinces).
+* wilayaAr.json: The list of all the States names in Arabic.
+* wilayaFr.json: The list of all the States names in French.
+* wilayaCode.json: The list of all the States codes.
+* wilayaCodePost.json: The list of all the States poste codes.
+* wilayaCodeTel.json: The list of all the States telephone codes.
+
+> The Data Related To The Provinces (Baladiya)
+
+* baladiya.json: The list of all the Provinces (With all the Data).
+* baladiyaAr.json: The list of all the Provinces names in Arabic.
+* baladiyaFr.json: The list of all the Provinces names in French.
+* baladiyaCode.json: The list of all the Provinces codes.
+
+### Sql Data
+
+dazd
