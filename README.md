@@ -78,7 +78,7 @@ This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you 
 > Tables Schemas
 
 * `schema.sql`: The Tables Schema for the Sql, MySql like databases.
-* `schema.sql`: The Tables Schema for the Sqlite databases.
+* `schema.sqlite`: The Tables Schema for the Sqlite databases.
 
 > The Data
 
