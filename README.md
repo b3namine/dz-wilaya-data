@@ -13,7 +13,7 @@ The Data goes to ***27 June 2019***, and it has never being modified or updated 
 
 ### Resources
 
-The are the following recourse used to collect end combine the Data.
+There are the following resources used to collect and combine the Data.
 
 * Official Goverment websites:
   * <http://www.interieur.gov.dz/index.php/fr/component/annuaire>
@@ -37,7 +37,7 @@ This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you 
 
 > Full Data Combined
 
-* Data.json: All the Data below was combined into one big file, that contains a join of all the Data, as it follows.
+* `Data.json`: All the Data below was combined into one big file, that contains a join of all the Data, as it follows.
 
 ```json
     "31": {
@@ -59,28 +59,28 @@ This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you 
 
 > The Data Related To The States (Wilaya)
 
-* wilaya.json: The list of all the States (With all the Data, except Provinces).
-* wilayaAr.json: The list of all the States names in Arabic.
-* wilayaFr.json: The list of all the States names in French.
-* wilayaCode.json: The list of all the States codes.
-* wilayaCodePost.json: The list of all the States poste codes.
-* wilayaCodeTel.json: The list of all the States telephone codes.
+* `wilaya.json`: The list of all the States (With all the Data, except Provinces).
+* `wilayaAr.json`: The list of all the States names in Arabic.
+* `wilayaFr.json`: The list of all the States names in French.
+* `wilayaCode.json`: The list of all the States codes.
+* `wilayaCodePost.json`: The list of all the States poste codes.
+* `wilayaCodeTel.json`: The list of all the States telephone codes.
 
 > The Data Related To The Provinces (Baladiya)
 
-* baladiya.json: The list of all the Provinces (With all the Data).
-* baladiyaAr.json: The list of all the Provinces names in Arabic.
-* baladiyaFr.json: The list of all the Provinces names in French.
-* baladiyaCode.json: The list of all the Provinces codes.
+* `baladiya.json`: The list of all the Provinces (With all the Data).
+* `baladiyaAr.json`: The list of all the Provinces names in Arabic.
+* `baladiyaFr.json`: The list of all the Provinces names in French.
+* `baladiyaCode.json`: The list of all the Provinces codes.
 
 ### Sql Data
 
 > Tables Schemas
 
-* schema.sql: The Tables Schema for the Sql, MySql like databases.
-* schema.sql: The Tables Schema for the Sqlite databases.
+* `schema.sql`: The Tables Schema for the Sql, MySql like databases.
+* `schema.sql`: The Tables Schema for the Sqlite databases.
 
 > The Data
 
-* data.sql: A Data migration file, for inserting all the Data after creating the tables, it is for Sql, MySql like databases.
-* data.sqlite: The Sqlite Database, therefore it is portable, just copy paste it, and use it.
+* `data.sql`: A Data migration file, for inserting all the Data after creating the tables, it is for Sql, MySql like databases.
+* `data.sqlite`: The Sqlite Database, therefore it is portable, just copy paste it, and use it.
