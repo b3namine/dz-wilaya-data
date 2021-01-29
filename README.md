@@ -29,7 +29,7 @@ There are the following resources used to collect and combine the Data.
 
 ### Scraping code
 
-This work belongs to [Herhar Fares](https://github.com/HerharFares), and if you are looking for the Scraping code, please visit the [WilayaApi](https://github.com/HerharFares/WilayaApi) repository.
+This work belongs to [Herhar Fares](https://github.com/FaresHerhar), and if you are looking for the Scraping code, please visit the [WilayaApi](https://github.com/FaresHerhar/WilayaApi) repository.
 
 ## Explaing the Data
 
