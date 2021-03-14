@@ -84,3 +84,23 @@ This work belongs to [Herhar Fares](https://github.com/FaresHerhar), and if you 
 
 * `data.sql`: A Data migration file, for inserting all the Data after creating the tables, it is for Sql, MySql like databases.
 * `data.sqlite`: The Sqlite Database, therefore it is portable, just copy paste it, and use it.
+
+### Csv Data
+
+ℹ️  The data in the CSV format is separated by a TAB.
+
+> The Data Related To The States (Wilaya)
+
+* `wilaya.csv`: The list of all the States (With all the Data, except Provinces).
+* `wilayaAr.csv`: The list of all the States names in Arabic.
+* `wilayaFr.csv`: The list of all the States names in French.
+* `wilayaCode.csv`: The list of all the States codes.
+* `wilayaCodePost.csv`: The list of all the States poste codes.
+* `wilayaCodeTel.csv`: The list of all the States telephone codes.
+
+> The Data Related To The Provinces (Baladiya)
+
+* `baladiya.csv`: The list of all the Provinces (With all the Data).
+* `baladiyaAr.csv`: The list of all the Provinces names in Arabic.
+* `baladiyaFr.csv`: The list of all the Provinces names in French.
+* `baladiyaCode.csv`: The list of all the Provinces codes.
