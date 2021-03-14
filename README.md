@@ -2,7 +2,7 @@
 
 ## Description
 
-DZ-Wilaya-Data, is a set of collected Data, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this Data set.  
+DZ-Wilaya-Data, is a set of collected Data, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this Data set.
 The Data is represented into two formats, JSON and SQL.
 
 ## Notes
@@ -87,7 +87,7 @@ This work belongs to [Herhar Fares](https://github.com/FaresHerhar), and if you 
 
 ### Csv Data
 
-ℹ️  The data in the CSV format is separated by a TAB.
+ℹ️ The data in the CSV format is separated by a TAB.
 
 > The Data Related To The States (Wilaya)
 
